@@ -25,7 +25,7 @@ Dotnet Core 6.X
 - [x]Object for parsing search terms
 - [x]Build Weather Call
 - [x]Build Geolocation Call
-- [ ]Make async work properly
+- [x]Make async work properly
 - [x]Wind direction in words, not degrees, e.g. "Southwest"
 - [ ]The secrets should really be in Weather.Lib. Also, move to secrets.json
 - [ ]Switch units
